@@ -1,0 +1,86 @@
+body {
+  background-color: #eaf6f6;
+  font-family: sans-serif;
+  margin: 10px 150px 100px 150px;
+  zoom: 95%;
+  /* font-size: 14px; */
+}
+/* 
+.zoom {
+  zoom: 120%;
+} */
+
+h3,
+h5 {
+  text-align: center;
+  padding-top: 10px;
+}
+span {
+  color: #eb3a14;
+}
+hr {
+  height: 1px;
+  background-color: #ccc;
+  border: 10px;
+  margin: 0px;
+}
+.star {
+  color: goldenrod;
+}
+
+hr {
+  height: 1px;
+  background-color: #eb3a14;
+  border: none;
+  /* background-color: transparent; */
+  opacity: 0.5;
+  margin: 0.1em auto;
+}
+.opacity {
+  text-align: left;
+  margin: 2px;
+  color: #eb3a14;
+}
+
+.current {
+  text-align: left;
+  margin: 2px;
+}
+
+.skill {
+  width: 19%;
+  display: inline-block;
+}
+
+br {
+  margin-top: 0px;
+}
+.hrposition {
+  margin: 1rem auto;
+}
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+.contact {
+  margin: 1px;
+}
+.reducespace {
+  margin: 0.7rem auto;
+}
+
+.bold {
+  font-weight: bold !important;
+  font-size: 12px;
+}
+
+h6 {
+  font-size: 12px;
+}
+.moveup {
+  margin-top: -2rem;
+}
